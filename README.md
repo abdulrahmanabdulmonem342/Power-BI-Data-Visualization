@@ -6,7 +6,7 @@ An interactive **Power BI dashboard** built to analyze survey responses from dat
 ---
 
 ## 📈 Dashboard Preview
-![Power BI Dashboard](dashboard.png)
+![Power BI Dashboard](Dashboard_survey.png)
 
 ---
 
